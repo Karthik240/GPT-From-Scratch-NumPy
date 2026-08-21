@@ -201,7 +201,7 @@ GPT-From-Scratch/
 ├── evaluate.py
 │   └── Model evaluation
 │
-├── LLM.ipynb
+├── main.ipynb
 │   └── Experiments and development notebook
 │
 ├── requirements.txt
